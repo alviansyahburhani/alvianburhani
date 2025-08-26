@@ -40,7 +40,7 @@
 
 
 **Tools:**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" height="36"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="36"/>
 
 
 ---
