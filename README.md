@@ -68,5 +68,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alviansyahburhani/output/snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/alviansyahburhani/alvianburhani/blob/main/.github/workflows/snake.yml" alt="Snake animation"/>
 </p>
