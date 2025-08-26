@@ -14,11 +14,10 @@
 
 ### Connect with me:
 <p>
-<a href="mailto:alviansyahburhani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@alviansyahburhani"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alviansyahburhani">LinkedIn</a>
+<a href="https://www.youtube.com/@USERNAME">YouTube</a>
+<a href="https://www.instagram.com/USERNAME">Instagram</a>
+
 </p>
 
 
@@ -51,25 +50,23 @@
 
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=alviansyahburhani&show_icons=true&locale=en" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alviansyahburhani&show_icons=true&locale=en&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alviansyahburhani&show_icons=true&locale=en" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alviansyahburhani&layout=compact" height="160"/>
 </p>
-
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alviansyahburhani" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alviansyahburhani" height="180"/>
 </p>
 
-
-<!-- Trophies (opsional) -->
 <p>
-<img src="https://github-profile-trophy.vercel.app/?username=alviansyahburhani&theme=onedark&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alviansyahburhani&theme=onedark&row=1&column=6"/>
 </p>
 
 
-<!-- Wakatime (opsional) -->
-<!--
-<p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME&layout=compact" height="260"/>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alviansyahburhani/output/snake.svg" alt="Snake animation"/>
 </p>
--->
