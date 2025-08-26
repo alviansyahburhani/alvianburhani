@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently diving deeper into **Deep Learning and Computer Vision with TensorFlow**.
-- 📝 I regularly write articles on **https://medium.com/@alviansyahburhani**.
+- 👯 I’m looking to collaborate on **open source projects related to Machine Learning**.
 - 📫 How to reach me: **1058411103522@student.unismuh.ac.id**
 
 ---
