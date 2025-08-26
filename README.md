@@ -13,7 +13,7 @@
 
 ### Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/alviansyahburhani" target="_blank">
+  <a href="https://www.linkedin.com/in/alvian-syah-burhani " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/alvianburhani" target="_blank">
