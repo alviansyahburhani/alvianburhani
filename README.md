@@ -178,44 +178,45 @@ loop();
 
 ---
 
-## 📄 Template 2 — Classic Developer Style (mirip screenshot)
+## 📄 Template 2 — Classic Developer Style (final untuk Alvian)
 
-> **Cara pakai:** salin blok di bawah ini ke `README.md` repo profil kamu (`alviansyahburhani`). Ganti bagian yang ditandai `YOUR_*`.
+> **Salin persis** ke `README.md` repo profil `alviansyahburhani`. Struktur dan urutan sudah disamakan dengan contoh screenshot. Ganti link sosial yang masih placeholder (#) bila ada.
 
 ```md
 <h1 align="center">Hi 👋, I'm Alvian Syah</h1>
-<p align="center">A passionate website & mobile developer from Indonesia</p>
+<p align="center">A passionate website developer from Indonesia</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alviansyahburhani&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
-- 🔭 I’m currently working on **IoT Flood Monitoring & Realtime Location Apps**  
-- 📝 I regularly write notes on **YOUR_MEDIUM_OR_BLOG_LINK**  
-- 📫 How to reach me: **alviansyahburhani@gmail.com**
+- 🌱 I’m currently learning **MERN stack**  
+- 📝 I regularly write articles on **https://medium.com/@alviansyahburhani**  
+- 📫 How to reach me **alviansyahburhani@gmail.com**
 
-### Connect with me
+### Connect with me:
 <p>
   <a href="mailto:alviansyahburhani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-  <a href="YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@alviansyahburhani"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
 ## TECHSTACKS 🧙‍♂️
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,php" height="36"/>
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=c,js,ts,py,php" height="36"/>
 
-**Front‑End**  
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux" height="36"/>
+**Front‑End:**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,wordpress" height="36"/>
 
-**Back‑End & Databases**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,sqlite,prisma" height="36"/>
+**Back‑End & Databases:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,firebase,supabase" height="36"/>
 
-**Tools**  
+**Tools:**  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,figma,vercel,netlify" height="36"/>
 
 ---
@@ -236,23 +237,16 @@ loop();
   <img src="https://github-profile-trophy.vercel.app/?username=alviansyahburhani&theme=onedark&row=1&column=6"/>
 </p>
 
-<!-- Wakatime (opsional: ganti YOUR_WAKATIME) -->
+<!-- Wakatime (opsional) -->
 <!--
 <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME&layout=compact" height="260"/>
 </p>
 -->
-
----
-
-## Featured Projects (pin these)
-- [makassar-flood-monitoring-simulation](https://github.com/alviansyahburhani/makassar-flood-monitoring-simulation) — MQTT + Python + Dashboard  
-- [RealTimeChatLocationApp](https://github.com/alviansyahburhani/RealTimeChatLocationApp) — React Native + Socket.IO + Maps  
-- [REALTIME-LOKASI-](https://github.com/alviansyahburhani/REALTIME-LOKASI-) — Realtime web map
 ```
 
-**Catatan:**
+**Yang perlu kamu sesuaikan:**
 
-* Ganti `YOUR_MEDIUM_OR_BLOG_LINK`, `YOUR_LINKEDIN`, `YOUR_INSTAGRAM`, `YOUR_YOUTUBE`.
-* Jika pakai Wakatime, ganti `YOUR_WAKATIME` dengan username kamu di Wakatime dan hapus komentar `<!-- -->`.
-* Semua gambar/ikon akan langsung tampil tanpa config tambahan.
+* Ganti tautan **LinkedIn/YouTube/Instagram** (yang masih `#`).
+* Jika tidak pakai Medium, ubah/ kosongkan barisnya.
+* Jika pakai Wakatime, ganti `YOUR_WAKATIME`.
