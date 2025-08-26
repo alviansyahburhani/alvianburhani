@@ -1,0 +1,37 @@
+name: Generate Snake
+
+on:
+  schedule: [{ cron: "0 0 * * *" }]  # update tiap hari
+  workflow_dispatch:
+  push: { branches: [ main ] }
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: alviansyahburhani
+          outputs: |
+            dist/snake.svg
+
+      # Simpan artifact (opsional)
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snake
+          path: dist/snake.svg
+
+      # Commit ke repo agar bisa ditampilkan di README
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Commit snake.svg
+        run: |
+          mkdir -p assets
+          cp dist/snake.svg assets/snake.svg
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/snake.svg
+          git commit -m "chore: update snake" || echo "no changes"
+          git push
