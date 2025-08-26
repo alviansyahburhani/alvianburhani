@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=alviansyahburhani&label=Profile%20Views&color=0e75b6&style=flat" alt="alviansyahburhani"/>
 </p>
 
-- 🌱 I’m currently diving deeper into **Deep Learning and Computer Vision with TensorFlow**.
+- 🌱 I’m currently diving deeper into **AI and Data Science**.
 - 👯 I’m looking to collaborate on **open source projects related to Machine Learning**.
 - 📫 How to reach me: **1058411103522@student.unismuh.ac.id**
 
