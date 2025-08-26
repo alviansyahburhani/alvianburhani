@@ -28,19 +28,19 @@
 
 
 **Languages:**
-<img src="https://skillicons.dev/icons?i=c,js,ts,py,php" height="36"/>
+<img src="https://skillicons.dev/icons?i=c,js,py" height="36"/>
 
 
 **Front‑End:**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,wordpress" height="36"/>
+<img src="https://skillicons.dev/icons?i=html,react,nextjs,wordpress" height="36"/>
 
 
 **Back‑End & Databases:**
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,firebase,supabase" height="36"/>
+<img src="https://skillicons.dev/icons?i=nodejs,supabase" height="36"/>
 
 
 **Tools:**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,figma,vercel,netlify" height="36"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" height="36"/>
 
 
 ---
