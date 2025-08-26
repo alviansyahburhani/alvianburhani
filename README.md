@@ -16,7 +16,7 @@
 <p>
 <a href="https://www.linkedin.com/in/alviansyahburhani">LinkedIn</a>
 <a href="https://www.youtube.com/@USERNAME">YouTube</a>
-<a href="https://www.instagram.com/USERNAME">Instagram</a>
+<a href="https://www.instagram.com/alvianburhani">Instagram</a>
 
 </p>
 
@@ -68,5 +68,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/alviansyahburhani/alvianburhani/blob/main/.github/workflows/snake.yml" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/alviansyahburhani/alviansyahburhani/output/snake.svg" />
 </p>
