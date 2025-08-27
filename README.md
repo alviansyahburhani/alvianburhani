@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alvian Syah</h1>
+<h1 align="center">Hi 👋, I'm Alvian Burhani</h1>
 <p align="center">A passionate Machine Learning enthusiast from Indonesia.</p>
 
 <p align="center">
