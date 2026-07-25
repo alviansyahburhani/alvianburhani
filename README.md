@@ -109,11 +109,13 @@ contact: 1058411103522@student.unismuh.ac.id
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.69%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 82.0 kB Used in GitHub's Storage 
+> 📦 82.1 kB Used in GitHub's Storage 
  > 
 > 🏆 73 Contributions in the Year 2026
  > 
@@ -123,12 +125,51 @@ contact: 1058411103522@student.unismuh.ac.id
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                327 commits         █████████░░░░░░░░░░░░░░░░   34.46 % 
+🌆 Daytime                456 commits         ████████████░░░░░░░░░░░░░   48.05 % 
+🌃 Evening                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Tuesday                  212 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Wednesday                193 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Thursday                 211 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Friday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Saturday                 17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Sunday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/alviansyahburhani/alviansyahburhani/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 20:19:05 UTC
+ Last Updated on 25/07/2026 20:10:11 UTC
 <!--END_SECTION:waka-->
 
 <br/>
